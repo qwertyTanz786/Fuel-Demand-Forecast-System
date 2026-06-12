@@ -5,7 +5,7 @@ import pandas as pd
 from sklearn.metrics import r2_score
 from xgboost import XGBRegressor
 from sklearn.model_selection import train_test_split
-df=pd.read_csv(r"C:\Portfolio-ML\Datasets\UAE_Fuel_Dataset_Monthly_Pricing.csv")
+df=pd.read_csv("Fuel_Dataset_Monthly_Pricing.csv")
 print("="*60)
 print("Smart Fuel Demand Forecasting System")
 print("="*60)
