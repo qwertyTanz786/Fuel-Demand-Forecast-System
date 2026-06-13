@@ -1,8 +1,8 @@
-# UAE Smart Fuel Demand Forecasting System
+# Smart Fuel Demand Forecasting System
 
 ## Project Overview
 
-The Smart Fuel Demand Forecasting System is a Machine Learning-powered application that predicts fuel demand for different vehicle categories across the UAE. The system analyzes vehicle specifications, fuel types, location data, and temporal factors to estimate fuel consumption and associated costs.
+The Smart Fuel Demand Forecasting System is a Machine Learning-powered application that predicts fuel demand for different vehicle categories. The system analyzes vehicle specifications, fuel types, location data, and temporal factors to estimate fuel consumption and associated costs.
 
 The project consists of:
 
@@ -251,17 +251,6 @@ Maximum Fuel Capacity
 ```
 
 ---
-
-## Fuel Demand Comparison
-
-The dashboard compares predictions across:
-
-- ENOC
-- EPPCO
-- ADNOC
-- CAFU
-- Emarat
-
 Interactive Plotly bar charts are generated for comparison.
 
 ---
@@ -368,4 +357,4 @@ Potential improvements include:
 ---
 
 # Conclusion
-The UAE Smart Fuel Demand Forecasting System demonstrates how Machine Learning can be applied to transportation and fuel analytics. By combining feature engineering, XGBoost regression, and an interactive Streamlit dashboard, the system provides actionable fuel demand insights and cost estimates for a wide variety of vehicle categories operating across the UAE.
+The Smart Fuel Demand Forecasting System demonstrates how Machine Learning can be applied to transportation and fuel analytics. By combining feature engineering, XGBoost regression, and an interactive Streamlit dashboard, the system provides actionable fuel demand insights and cost estimates for a wide variety of vehicle categories operating across the UAE.
